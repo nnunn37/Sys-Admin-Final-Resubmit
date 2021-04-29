@@ -4,7 +4,7 @@ My Final
 
 1: Download all of the files related to this project.
 
-2: Look at specific files to see what can be excluded from the Virtual Machine.
+2: There is a missing file shown in git.ignore which is the Python Venv environment that will have to be created on an Ubuntu VM. This has have python 3.8 or higher within. You will also need to install flask within the VM as well.
 
 3: Using a Virtual Machine Environment such as VMWorkstation Pro, check the folder with all the downloaded files for a VM. There should be an option to do this is VMWorkstation Pro when you select open a VM.
 
